@@ -18,8 +18,8 @@ p {
 
 /* UI: Style the header container */
 div {
-  background-color: darkcyan; /* header background */
-  text-align: right; /* align logo to the right */
+  background-color: blue; /* final UI update */
+  text-align: right;
 }
 
 /* Table Styling */
